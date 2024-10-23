@@ -1,5 +1,5 @@
 # Codsoft-Virtual-Intership-Tasks
-Task Details
-TAsk 1 : Number Game
-Task 2 : Grade Calculator
+Task Details <br>
+TAsk 1 : Number Game <br>
+Task 2 : Grade Calculator <br>
 Task 3 : Atm Interface
